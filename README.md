@@ -2,9 +2,10 @@
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
 
+
 <p align="left"> <a href="https://twitter.com/abbas_shafi2000" target="blank"><img src="https://img.shields.io/twitter/follow/abbas_shafi2000?logo=twitter&style=for-the-badge" alt="abbas_shafi2000" /></a> </p>
 
-- 🔭 I’m currently working on **Uber Rides Prediction using Machine Learning**
+- 🔭 I’m currently working on [Uber Rides Prediction using Machine Learning](https://github.com/abbasshafi/Uber-Rides-Prediction)
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -31,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbasshafi&show_icons=true&locale=en" alt="abbasshafi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasshafi&" alt="abbasshafi" /></p>
+
