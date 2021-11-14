@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abbas Shafi</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
+<h3 align="center">A Passionate Data Scientist from Pakistan</h3>
 
 
 
