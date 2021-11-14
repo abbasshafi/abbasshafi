@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Uber Rides Prediction using Machine Learning**
 
-- 🌱 I’m currently learning **Artificial Intelligence/Data Science**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **abbasshafi.2000@gmail.com**
 
