@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Data Scientist from Pakistan</h3>
 
 
-<!-- 
-<p align="left"> <a href="https://twitter.com/abbas_shafi2000" target="blank"><img src="https://img.shields.io/twitter/follow/abbas_shafi2000?logo=twitter&style=for-the-badge" alt="abbas_shafi2000" /></a> </p> -->
+ 
+<p align="left"> <a href="https://twitter.com/abbas_shafi2000" target="blank"><img src="https://img.shields.io/twitter/follow/abbas_shafi2000?logo=twitter&style=for-the-badge" alt="abbas_shafi2000" /></a> </p> 
 
 - 🔭 I’m currently working on [Uber Rides Prediction using Machine Learning](https://github.com/abbasshafi/Uber-Rides-Prediction)
 
