@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am a shy person :)**
 
-- 🌐 [**Portfolio Website**]https://abbasshafi.github.io/)
+- 🌐 [**Portfolio Website**](https://abbasshafi.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
