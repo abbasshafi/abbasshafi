@@ -5,6 +5,8 @@
  
 <p align="left"> <a href="https://twitter.com/abbas__shafi" target="blank"><img src="https://img.shields.io/twitter/follow/abbas_shafi2000?logo=twitter&style=for-the-badge" alt="abbasshafi_2000" /></a> </p>  
 
+- 🌐 [**Portfolio Website**](https://abbasshafi.github.io/)
+
 - 🔭 I’m currently working on [Uber Rides Prediction using Machine Learning](https://github.com/abbasshafi/Uber-Rides-Prediction)
 
 - 🌱 I’m currently learning more about **MLOPs**
@@ -13,7 +15,7 @@
 
 - ⚡ Fun fact **I am a shy person :)**
 
-- 🌐 [**Portfolio Website**](https://abbasshafi.github.io/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
