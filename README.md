@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning more about **MLOPs**
 
-- 📫 How to reach me **abbasshafi.2000@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abbasshafi/) **abbasshafi.2000@gmail.com**
 
 - ⚡ Fun fact **I am a shy person :)**
 
