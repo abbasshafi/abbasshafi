@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasshafi&label=Profile%20views&color=0e75b6&style=flat" alt="abbasshafi" /> </p>
 
 
-- 🔭 I’m currently working on [Uber Rides Prediction using Machine Learning](https://github.com/abbasshafi/Uber-Rides-Prediction)
+- 🔭 I’m currently working on [A YOLO-based Vehicle Detection and Counting System]([https://github.com/abbasshafi/Uber-Rides-Prediction](https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git))
 
-- 🌱 I’m currently learning more about **MLOPs**
+- 🌱 I’m currently learning more about **Machine Learning**
 
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/abbasshafi/) 
 
