@@ -14,9 +14,11 @@
 
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/abbasshafi/) 
 
+- 🌐 [**Portfolio Website**](https://abbasshafi.github.io/)
+
 - ⚡ Fun fact **I am a shy person :)**
 
-- 🌐 [**Portfolio Website**](https://abbasshafi.github.io/)
+
 
 
 
