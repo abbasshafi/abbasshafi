@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on [A YOLO-based Vehicle Detection and Counting System](https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git)
 
-- 🌱 I’m currently learning more about **Machine Learning**
+- 🌱 I’m currently learning more about **Machine Learning / Deep Learning**
 
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/abbasshafi/) 
 
 - 🌐 [**Portfolio Website**](https://abbasshafi.github.io/)
 
-- ⚡ Fun fact **I am a shy person :)**
+- ⚡ Fun fact **I love to Learn New things & Share**
 
 
 
