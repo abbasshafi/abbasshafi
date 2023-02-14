@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [A YOLO-based Vehicle Detection and Counting System](https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git)
 
-- 🌱 I’m currently learning more about **Machine Learning / Deep Learning**
+- 🌱 I’m currently learning more about **Machine Learning & Deep Learning**
 
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/abbasshafi/) 
 
