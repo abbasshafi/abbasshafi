@@ -16,7 +16,7 @@
 
 - 🌐 [**Portfolio Website**](https://abbasshafi.github.io/)
 
-- ⚡ Fun fact **I love to Learn New things & Share**
+- ⚡ Fun fact **I love Learning New things & Sharing it with others**
 
 
 
