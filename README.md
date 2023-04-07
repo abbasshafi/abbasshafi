@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abbas Shafi</h1>
-<h3 align="center">A Passionate Artificial Intelligence Developer from Pakistan</h3>
+<h3 align="center">Certified AI Developer from Pakistan</h3>
 
 
  
