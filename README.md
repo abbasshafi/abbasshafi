@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasshafi&label=Profile%20views&color=0e75b6&style=flat" alt="abbasshafi" /> </p>
 
 
-- 🔭 I’m currently working on [AutoCount, Detection, and Classification using Yolov4](https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git)
+- 🔭 I’m currently working on [Enhancing Urban Planning with Automated Vehicle Detection and Counting: An Application of YOLOv4 and Deep SORT](https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git)
 
 - 🌱 I’m currently learning more about **Machine Learning & Deep Learning**
 
