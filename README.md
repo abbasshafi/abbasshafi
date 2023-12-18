@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Enhancing Urban Planning with Automated Vehicle Detection and Counting: An Application of YOLOv4 and Deep SORT](https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git)
 
-- 🌱 I’m currently learning more about **Machine Learning & Deep Learning**
+- 🌱 I’m currently learning more about **Natural Language Processing (NLP)**
 
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/abbasshafi/) 
 
