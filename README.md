@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasshafi&label=Profile%20views&color=0e75b6&style=flat" alt="abbasshafi" /> </p>
 
 
-- 🔭 I’m currently working on **DineBot: ChatBot for Restaurants**
+- 🔭 I’m currently working on **MedBot: ChatBot for Medical Professionals**
 <!--
 - (https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git)
 -->
