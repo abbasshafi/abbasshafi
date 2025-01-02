@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasshafi&label=Profile%20views&color=0e75b6&style=flat" alt="abbasshafi" /> </p>
 
-
-- 🔭 I’m currently working on **MedBot: ChatBot for Medical Professionals**
 <!--
+- 🔭 I’m currently working on **MedBot: ChatBot for Medical Professionals**
+
 - (https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git)
 -->
 
-- 🌱 I’m currently learning more about **Large Language Models (LLM's)**
+- 🌱 I’m currently learning more about **Agentic AI**
 
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/abbasshafi/) 
 
