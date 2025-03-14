@@ -17,7 +17,10 @@
 
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/abbasshafi/) 
 
+<!--
 - 🌐 [**Portfolio Website**](https://abbasshafi.github.io/)
+-->
+
 
 - ⚡ Fun fact **I love Learning New things & Sharing it with others**
 
