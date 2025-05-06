@@ -13,7 +13,7 @@
 - (https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git)
 -->
 
-- 🌱 I’m currently learning more about **Agentic AI**
+- 🌱 I’m currently learning more about **OpenAI Agents SDK**
 
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/abbasshafi/) 
 
