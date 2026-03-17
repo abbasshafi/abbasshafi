@@ -13,7 +13,7 @@
 - (https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git)
 -->
 
-- 🌱 I’m currently learning more about **Creating AI Agents using OpenAI Agents SDK**
+- 🌱 I’m currently learning more about **Model Context Protocol (MCP)**
 
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/abbasshafi/) 
 
