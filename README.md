@@ -5,7 +5,7 @@
  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abbasshafi/" target="_blank">
+  <a href="https://www.linkedin.com/in/abbasshafi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Abbas%20Shafi-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Abbas Shafi" />
   </a>
 </p>
