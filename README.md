@@ -3,7 +3,14 @@
 
 
  
-<p align="left"> <a href="[https://www.linkedin.com/in/abbasshafi/](https://www.linkedin.com/in/abbasshafi/)" target="blank">< img src="https://img.shields.io/twitter/follow/abbas__shafi?logo=twitter&style=for-the-badge" alt="abbasshafi" /></a> </p>  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abbasshafi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abbas%20Shafi-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Abbas Shafi" />
+  </a>
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasshafi&label=Profile%20views&color=0e75b6&style=flat" alt="abbasshafi" /> </p>
 
