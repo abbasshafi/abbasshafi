@@ -1,67 +1,102 @@
-<h1 align="center">Hi 👋, I'm Abbas Shafi</h1>
-<h3 align="center">Certified AI Developer from Pakistan</h3>
+<!--
+  Replace before publishing:
+  YOUR_USERNAME  -> your GitHub username (appears in several URLs)
+  LINKEDIN_URL   -> your LinkedIn profile link
+  YOUR_EMAIL     -> your contact email
+  PORTFOLIO_URL  -> your portfolio/site (or delete that badge)
+-->
 
+<h1 align="center">Hi, I'm Abbas Shafi 👋</h1>
+<h3 align="center">Applied AI Engineer — I build agentic AI systems that run in production, not just in notebooks.</h3>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abbas%20Shafi-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abbasshafi/)
-
-<!-- <p align="left">
-  <a href="https://www.linkedin.com/in/abbasshafi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Abbas%20Shafi-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Abbas Shafi" />
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Agentic+workflows+with+LangGraph;Advanced+RAG+%2B+MCP+tool+servers;LLM+apps+shipped+with+FastAPI+%2B+Docker;Roman+Urdu+%2F+English+conversational+AI" alt="Typing SVG" />
   </a>
-</p> -->
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasshafi&label=Profile%20views&color=0e75b6&style=flat" alt="abbasshafi" /> </p>
-
-<!--
-- 🔭 I’m currently working on **MedBot: ChatBot for Medical Professionals**
-
-- (https://github.com/abbasshafi/A-YOLO-based-Vehicle-Detection-and-Counting-System.git)
--->
-
-- 🌱 I’m currently learning more about **Agentic AI**
-
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/abbasshafi/) 
-
-<!--
-- 🌐 [**Portfolio Website**](https://abbasshafi.github.io/)
--->
-
-
-- ⚡ Fun fact **I love Learning New things & Sharing it with others**
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <!-- <a href="https://twitter.com/abbas__shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbas__shafi" height="30" width="40" /></a>  -->
-<a href="https://www.linkedin.com/in/abbasshafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbasshafi-2000" height="30" width="40" /></a>
-<a href="https://kaggle.com/abbasshafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abbasshafi" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/abbasshafi000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abbasshafi000" height="30" width="40" /></a>
-<a href="https://instagram.com/abbas__shafi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbas__shafi/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abbasshafi_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abbasshafi_2000" height="30" width="40" /></a> -->
-<a href="https://discord.gg/Abbas Shafi #5520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abbas Shafi #5520" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://scholar.google.com/citations?user=mZNM73cAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+</p>
 
-<!-- # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
- -->
- 
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+---
 
+### 🧑‍💻 About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasshafi&show_icons=true&locale=en&layout=compact" alt="abbasshafi" /></p>
+- 🔭 Building **[Odonto](https://github.com/YOUR_USERNAME/odonto)** — a WhatsApp AI receptionist for dental clinics in Pakistan that books appointments, answers FAQs and cuts no-shows, in Roman Urdu and English
+- 🧠 I work on agentic workflows, advanced RAG, MCP tool servers, and making LLM apps fast and cheap enough to actually deploy
+- 🎓 MS Data Science (IMSciences) · BS Computer Science (The University of Agriculture Peshawar)
+- 🌱 Currently leveling up in DevOps — CI/CD and cloud deployment
+- 🤝 Open to **freelance projects** and **Forward Deployed / Applied AI Engineer** roles
+- 🌍 Based in Pakistan (UTC+5) — comfortable working async with remote teams
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbasshafi&show_icons=true&locale=en" alt="abbasshafi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasshafi&" alt="abbasshafi" /></p>
+### 🚀 Featured work
 
+| Project | What it does | Built with | Status |
+|---|---|---|---|
+| **[Odonto](https://github.com/YOUR_USERNAME/odonto)** | WhatsApp AI receptionist for dental clinics — bilingual intake, booking, FAQs and human escalation, with persistent conversation state | LangGraph · PostgreSQL · FastAPI · Groq | 🚧 In progress |
+| **Hisab** | Offline-first Windows stock & till app for a battery/solar retailer, in English, Pashto and Urdu | Desktop · Offline-first | 🏪 Client project |
+| **[MCP Expense Tracker](https://github.com/YOUR_USERNAME/mcp-expense-tracker)** | MCP server that exposes expense-tracking tools to any MCP-compatible client | FastMCP · SQLite · Python | ✅ Complete |
+| **[AML Cell Classification](https://github.com/YOUR_USERNAME/aml-cell-classification)** | CNN transfer learning vs. Vision Transformers on ~18k single-cell images (AML-Cytomorphology_LMU), with Grad-CAM and attention-map explainability | Computer Vision · ViT · XAI | 🔬 Research |
 
+**Next on the bench:** InvoiceFlow · Vehicle Damage Assessment Agent · Call Centre Quality Agent · TenderAI
 
-<!-- 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> -->
+---
+
+### 🛠️ Tech stack
+
+**Agentic AI & LLMs**
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agents SDK"/>
+  <img src="https://img.shields.io/badge/MCP_(FastMCP)-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Advanced_RAG-0F766E?style=for-the-badge" alt="Advanced RAG"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
+</p>
+
+**Backend, data & tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,git,github,linux,vscode" alt="Backend and tooling"/>
+</p>
+
+**Machine learning & deep learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML and DL"/>
+</p>
+
+---
+
+### 📚 Research
+
+- 4 published papers in agronomy and soil science (HEC-recognized journals), in collaboration with The University of Agriculture Peshawar — [view on Google Scholar](https://scholar.google.com/citations?user=mZNM73cAAAAJ)
+- Current interests: AI in healthcare · explainable AI · efficient AI · evaluating agentic systems
+
+### 🏅 Experience & certifications
+
+- Internship — **AntonX**
+- Certifications — **PIAIC** · **NAVTTC / UET Peshawar** · **Panaversity**
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Have a workflow that should run itself?</b> Let's talk — <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
+</p>
