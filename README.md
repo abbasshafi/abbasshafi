@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://scholar.google.com/citations?user=mZNM73cAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="[LINKEDIN_URL](https://www.linkedin.com/in/abbasshafi/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[https://scholar.google.com/citations?user=mZNM73cAAAAJ](https://scholar.google.com/citations?hl=en&user=mZNM73cAAAAJ)"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="mailto:abbasshafi.2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -33,6 +33,7 @@
 - 🤝 Open to **freelance projects** and **Forward Deployed / Applied AI Engineer** roles
 - 🌍 Based in Pakistan (UTC+5) — comfortable working async with remote teams
 
+<!--
 ---
 
 ### 🚀 Featured work
@@ -47,6 +48,7 @@
 **Next on the bench:** InvoiceFlow · Vehicle Damage Assessment Agent · Call Centre Quality Agent · TenderAI
 
 ---
+-->
 
 ### 🛠️ Tech stack
 
@@ -98,5 +100,5 @@
 ---
 
 <p align="center">
-  <b>Have a workflow that should run itself?</b> Let's talk — <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
+  <b>Have a workflow that should run itself?</b> Let's talk — <a href="mailto:abbasshafi.2000@gmail.com">GMAIL</a>
 </p>
