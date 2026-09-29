@@ -10,7 +10,7 @@
 <h3 align="center">Applied AI Engineer — I build agentic AI systems that run in production, not just in notebooks.</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/abbasshafi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Agentic+workflows+with+LangGraph;Advanced+RAG+%2B+MCP+tool+servers;LLM+apps+shipped+with+FastAPI+%2B+Docker;Roman+Urdu+%2F+English+conversational+AI" alt="Typing SVG" />
   </a>
 </p>
@@ -19,7 +19,6 @@
   <a href="[LINKEDIN_URL](https://www.linkedin.com/in/abbasshafi/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="[https://scholar.google.com/citations?user=mZNM73cAAAAJ](https://scholar.google.com/citations?hl=en&user=mZNM73cAAAAJ)"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="mailto:abbasshafi.2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
