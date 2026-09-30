@@ -15,7 +15,7 @@
 
 ---
 
-### 🧑‍💻 About me
+### About me
 
 - 🔭 Building **Odonto** — a WhatsApp AI receptionist for dental clinics in Pakistan that books appointments, answers FAQs and cuts no-shows, in Roman Urdu and English
 - 🧠 I work on agentic workflows, advanced RAG, MCP tool servers, and making LLM apps fast and cheap enough to actually deploy
