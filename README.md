@@ -1,11 +1,3 @@
-<!--
-  Replace before publishing:
-  YOUR_USERNAME  -> your GitHub username (appears in several URLs)
-  LINKEDIN_URL   -> your LinkedIn profile link
-  YOUR_EMAIL     -> your contact email
-  PORTFOLIO_URL  -> your portfolio/site (or delete that badge)
--->
-
 <h1 align="center">Hi, I'm Abbas Shafi 👋</h1>
 <h3 align="center">Applied AI Engineer — I build agentic AI systems that run in production, not just in notebooks.</h3>
 
@@ -16,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="[LINKEDIN_URL](https://www.linkedin.com/in/abbasshafi/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="[https://scholar.google.com/citations?user=mZNM73cAAAAJ](https://scholar.google.com/citations?hl=en&user=mZNM73cAAAAJ)"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://www.linkedin.com/in/abbasshafi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=mZNM73cAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="mailto:abbasshafi.2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -25,7 +17,7 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 Building **[Odonto](https://github.com/YOUR_USERNAME/odonto)** — a WhatsApp AI receptionist for dental clinics in Pakistan that books appointments, answers FAQs and cuts no-shows, in Roman Urdu and English
+- 🔭 Building **Odonto** — a WhatsApp AI receptionist for dental clinics in Pakistan that books appointments, answers FAQs and cuts no-shows, in Roman Urdu and English
 - 🧠 I work on agentic workflows, advanced RAG, MCP tool servers, and making LLM apps fast and cheap enough to actually deploy
 - 🎓 MS Data Science (IMSciences) · BS Computer Science (The University of Agriculture Peshawar)
 - 🌱 Currently leveling up in DevOps — CI/CD and cloud deployment
@@ -39,13 +31,14 @@
 
 | Project | What it does | Built with | Status |
 |---|---|---|---|
-| **[Odonto](https://github.com/YOUR_USERNAME/odonto)** | WhatsApp AI receptionist for dental clinics — bilingual intake, booking, FAQs and human escalation, with persistent conversation state | LangGraph · PostgreSQL · FastAPI · Groq | 🚧 In progress |
+| **Odonto** | WhatsApp AI receptionist for dental clinics — bilingual intake, booking, FAQs and human escalation, with persistent conversation state | LangGraph · PostgreSQL · FastAPI · Groq | 🚧 In progress |
 | **Hisab** | Offline-first Windows stock & till app for a battery/solar retailer, in English, Pashto and Urdu | Desktop · Offline-first | 🏪 Client project |
-| **[MCP Expense Tracker](https://github.com/YOUR_USERNAME/mcp-expense-tracker)** | MCP server that exposes expense-tracking tools to any MCP-compatible client | FastMCP · SQLite · Python | ✅ Complete |
-| **[AML Cell Classification](https://github.com/YOUR_USERNAME/aml-cell-classification)** | CNN transfer learning vs. Vision Transformers on ~18k single-cell images (AML-Cytomorphology_LMU), with Grad-CAM and attention-map explainability | Computer Vision · ViT · XAI | 🔬 Research |
+| **MCP Expense Tracker** | MCP server that exposes expense-tracking tools to any MCP-compatible client | FastMCP · SQLite · Python | ✅ Complete |
+| **AML Cell Classification** | CNN transfer learning vs. Vision Transformers on ~18k single-cell images (AML-Cytomorphology_LMU), with Grad-CAM and attention-map explainability | Computer Vision · ViT · XAI | 🔬 Research |
 
 **Next on the bench:** InvoiceFlow · Vehicle Damage Assessment Agent · Call Centre Quality Agent · TenderAI
 
+To link a project once its repo is public: **[Odonto](https://github.com/abbasshafi/REPO-NAME)**
 ---
 -->
 
@@ -79,7 +72,7 @@
 
 ### 📚 Research
 
-- 4 published papers in agronomy and soil science (HEC-recognized journals), in collaboration with The University of Agriculture Peshawar — [view on Google Scholar](https://scholar.google.com/citations?user=mZNM73cAAAAJ)
+- 4 published papers in agronomy and soil science (HEC-recognized journals), in collaboration with The University of Agriculture Peshawar — [view on Google Scholar](https://scholar.google.com/citations?hl=en&user=mZNM73cAAAAJ)
 - Current interests: AI in healthcare · explainable AI · efficient AI · evaluating agentic systems
 
 ### 🏅 Experience & certifications
@@ -91,13 +84,14 @@
 
 ### 📊 GitHub stats
 
+<!-- These cards are generated daily by .github/workflows/readme-stats.yml -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <b>Have a workflow that should run itself?</b> Let's talk — <a href="mailto:abbasshafi.2000@gmail.com">GMAIL</a>
+  <b>Have a workflow that should run itself?</b> Let's talk — <a href="mailto:abbasshafi.2000@gmail.com">abbasshafi.2000@gmail.com</a>
 </p>
