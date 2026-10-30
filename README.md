@@ -19,7 +19,7 @@
 
 - 🔭 Building **Odonto** — a WhatsApp AI receptionist for dental clinics in Pakistan that books appointments, answers FAQs and cuts no-shows, in Roman Urdu and English
 - 🧠 I work on agentic workflows, advanced RAG, MCP tool servers, and making LLM apps fast and cheap enough to actually deploy
-- 🎓 MS Data Science (IMSciences) · BS Computer Science (The University of Agriculture Peshawar)
+- 🎓 MS Data Science (IMSciences) · BS Computer Science
 - 🌱 Currently leveling up in DevOps — CI/CD and cloud deployment
 - 🤝 Open to **freelance projects** and **Forward Deployed / Applied AI Engineer** roles
 - 🌍 Based in Pakistan (UTC+5) — comfortable working async with remote teams
